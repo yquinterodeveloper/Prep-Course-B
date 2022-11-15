@@ -1,0 +1,65 @@
+1. Variable
+
+Hola chiquillos, vamos a explicar que es una variable en la ciencia de los lenguajes de la computadoras, 
+una variable la podemos imaginar como una cajita, esa cajita la llamamos "X" y dentro de ella guardamos 
+un papel que tiene un número, y ese número es el 5. 
+Y si yo te pregunto: ¿cúanto vale la caja X?,  tu abres la caja y mira el papel y tu me dices, 
+la caja X vale 5. Entonces una variable X tiene un valor de 5, y si lo quiero escribir para que 
+las computaodras me entienda serìa X=5.
+
+Entonces, existen muchas variables pero las màs conocidas que le puedes colocar al papel dentro de la caja
+son: númericas, string, booleanas, vamos a explicar algunas variables.
+
+Strings
+
+Ahora vamos a explicar que son Los String, primero es una palabra en ingles que significa
+cadena o grupo de caracteres, y esto caracteres significan que son letras, por ejemplo, mi nombre
+es: Juan, y la palabra Juan serìa un String, otros ejemplo: :a dirección de tu casa, tu DNI o número de cedula
+entre otros, todo lo que tu escribes en tu cuaderno de clase, y si quieres copnvertir los números 
+en String lo puedes hacer, pero con esos números no puedes hacer sumas o restas, es decir no puedes usarlo
+para las mátemáticas.
+
+Si explicamos el ejemplo de la caja, esta caja solo tendria dentro de ella un papel que solo se le pueden
+escribir letras o números que no se utilicen para las matemáticas
+
+Booleans
+
+Los booleanos son utilizados cuando quiero hacer una pregunta y solo quiero obtener dos respuestas,
+si o no, o verdadero o falso, por ejemplo: Si quiero preguntar: ¿Te gusta montar bicicleta:
+SI o NO, tu solo tienes dos respuesta. Otros ejemplo: Es cuando enciendes o apagas la luz de tu cuarto
+solo suceden dos cosas: Encendida o Apagada, entonces eso seria un valor booleano.
+El ejemplo de la cajita, solo tendría dentro de ella, un papel que tendria dos valores: verdadero o falso.
+
+Undefined
+
+La palabra Undefined representa aquellas variables que no saben que representan, si seguimos 
+con el ejemplo de la caja, sería cuando se me olvidó poner en el papel si la variable es numerica, 
+string o booleana  
+
+Null
+
+La palabra Null significa que la variable que he colocado en el papelito de la caja le falta ponerle
+su valor, por ejemplo, si dije que era string, no escribe la palabra o si dije que era nùmerico, no escribí
+el nñumero.
+
+Operadores
+
+Los operadores son todos aquellos signos que utilizó o que tu profesora te enseño para representar
+calculos matemáticos, por ejemplo el signo: + significa que voy hacer una suma, y seguro entiendes 
+que: 1 + 1 eso quiere decir que estoy sumando esos dos numeros
+
+El ejemplo de la caja serìa si ahora en la caja tengo dos papeles y cada papel tiene escrito 1 y en el 
+otro papel 1, y si llamos a los operadores, ellos haran la suma de 1+1
+
+`==` vs. `===`
+
+Que el doble igual
+
+El doble igual se utiliza cuando queremos convertir los valores de variable al mismo tipo.
+Por ejemplo si en la misma caja tengo dos papales uno que tiene un string y otro un valor booleano.
+
+El triple igual
+
+Esto nos permite saber si las variables son del mismo tipo y del mismo valor, por ejemplo, si tengo
+dos papeles en mi caja, quiero saber si los dos son numeros, string o boleanos, si se cumple
+devuelve un valor verdadero. explico mejor, si tengo dos papeles 
